@@ -6,7 +6,7 @@ My Tech Stack
 
 <table>
 <tr>
-<td width="30%">
+<td width="50%">
 
 ## Programming Languages
 | JavaScript | TypeScript | Java | C# |
@@ -19,7 +19,7 @@ My Tech Stack
 | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
 </td>
-<td width="30%">
+<td width="50%">
 
 ## Frontend
 | HTML5 | CSS3 | React |
@@ -30,17 +30,6 @@ My Tech Stack
 | Bootstrap | Sass | Bulma |
 |-----------|------|-------|
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) | ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white) |
-</td>
-<td width="30%">
-
-
-
-## Development Tools
-| Visual Studio Code | Android Studio |
-|--------------------|-----------------|
-| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
-
-  
 </td>
 </tr>
 </table>
