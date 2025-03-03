@@ -2,7 +2,7 @@
 <h2>
 (っ◕‿◕)っ
 </h2>
-My Tech Stack
+My Technologies
 
 <table>
 <tr>
